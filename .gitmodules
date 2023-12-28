@@ -1,0 +1,6 @@
+[submodule "comfy_sloth_store_backend"]
+	path = comfy_sloth_store_backend
+	url = git@github.com:Wesley-waka/comfy_sloth_backend.git
+[submodule "comfy_sloth_store_frontend"]
+	path = comfy_sloth_store_frontend
+	url = git@github.com:Wesley-waka/comfy_sloth_store.git
