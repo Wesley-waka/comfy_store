@@ -3,12 +3,12 @@
 FurnitureCommerce is an online platform that offers a wide range of high-quality furniture for your home or office. Our website is designed to provide a seamless shopping experience, allowing users to browse through a diverse collection of furniture items, make purchases, and have them delivered to their doorstep. Whether you're looking for modern, classic, or bespoke pieces, FurnitureCommerce has something to suit every taste and style.
 ## Table of Contents
 
-Features
-Installation
-Usage
-Technologies Used
-Contributing
-License
+        Features
+        Installation
+        Usage
+        Technologies Used
+        Contributing
+        License
 
 ## Features
 
