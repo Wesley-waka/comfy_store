@@ -70,7 +70,7 @@ Checkout:
 User Account:
         Create an account to manage orders, save favorite items, and track your purchase history.
 
-Technologies Used
+### Technologies Used
 
     React.js
     Node.js
@@ -79,7 +79,7 @@ Technologies Used
     SASS
     JWT Authentication
 
-Contributing
+### Contributing
 
 This project is licensed under the MIT License.
 
